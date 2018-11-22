@@ -1,0 +1,13 @@
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\UnitTestConversion.dll
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\UnitTestConversion.pdb
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\UnitTestConversion.xml
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\ConversionLib.dll
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\ConversionLib.pdb
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\bin\Debug\ConversionLib.xml
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\obj\Debug\UnitTestConversion.vbprojResolveAssemblyReference.cache
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\obj\Debug\UnitTestConversion.Resources.resources
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\obj\Debug\UnitTestConversion.vbproj.GenerateResource.Cache
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\obj\Debug\UnitTestConversion.dll
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\obj\Debug\UnitTestConversion.xml
+C:\Users\Daysi\Documents\EvoParcial\Conversion\UnitTestConversion\obj\Debug\UnitTestConversion.pdb

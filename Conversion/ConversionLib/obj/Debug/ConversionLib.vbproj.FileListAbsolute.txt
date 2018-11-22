@@ -1,0 +1,9 @@
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\bin\Debug\ConversionLib.dll
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\bin\Debug\ConversionLib.pdb
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\bin\Debug\ConversionLib.xml
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\obj\Debug\ConversionLib.vbprojResolveAssemblyReference.cache
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\obj\Debug\ConversionLib.Resources.resources
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\obj\Debug\ConversionLib.vbproj.GenerateResource.Cache
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\obj\Debug\ConversionLib.dll
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\obj\Debug\ConversionLib.xml
+C:\Users\Daysi\Documents\EvoParcial\Conversion\ConversionLib\obj\Debug\ConversionLib.pdb
